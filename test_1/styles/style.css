@@ -1,0 +1,105 @@
+html {
+    background-image:repeating-linear-gradient(black,white);
+    color: white;
+    font-size: 10px; /* px means 'pixels': the base font size is now 10 pixels high  */
+    font-family: Nerko+One;/* this should be the rest of the output you got from Google fonts*/
+  }
+
+  body{
+    background-image: repeating-linear-gradient(rgb(37, 37, 37),white);
+    width: 900px;
+    padding: 0 20px 20px 20px;
+    margin:0 auto;
+    position:center;
+  }
+  h1 {
+    font-size: 60px;
+    text-align: center;
+    color:green;
+    text-shadow:10px 2px 10px black;
+  }
+  
+  p,
+  li {
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+    margin: auto;
+  }
+  img{
+    padding: auto;
+    display: black;
+    width: 700px;
+  }
+
+  a{
+    color : green;
+  }
+  
+  .titillium-web-extralight {
+    font-family: "Titillium Web", sans-serif;
+    font-weight: 200;
+    font-style: normal;
+  }
+  
+  .titillium-web-light {
+    font-family: "Titillium Web", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+  }
+  
+  .titillium-web-regular {
+    font-family: "Titillium Web", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .titillium-web-semibold {
+    font-family: "Titillium Web", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+  }
+  
+  .titillium-web-bold {
+    font-family: "Titillium Web", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+  .titillium-web-black {
+    font-family: "Titillium Web", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+  }
+  
+  .titillium-web-extralight-italic {
+    font-family: "Titillium Web", sans-serif;
+    font-weight: 200;
+    font-style: italic;
+  }
+  
+  .titillium-web-light-italic {
+    font-family: "Titillium Web", sans-serif;
+    font-weight: 300;
+    font-style: italic;
+  }
+  
+  .titillium-web-regular-italic {
+    font-family: "Titillium Web", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+  }
+  
+  .titillium-web-semibold-italic {
+    font-family: "Titillium Web", sans-serif;
+    font-weight: 600;
+    font-style: italic;
+  }
+  
+  .titillium-web-bold-italic {
+    font-family: "Titillium Web", sans-serif;
+    font-weight: 700;
+    font-style: italic;
+  }
+  
+  
